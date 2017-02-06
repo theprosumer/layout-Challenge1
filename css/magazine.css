@@ -1,0 +1,71 @@
+
+h1 {
+	font-family: 'Lato', sans-serif;
+}
+
+.logoArea {
+	width: 300px;
+	height: 100px;
+	margin:10px;
+	background-color: rgb(169,223,255);
+	float: left;
+}
+
+.topNavArea a {
+	width: 100px;
+	height: 50px;
+	display: block;
+	margin: 25px 10px 25px auto;
+	background-color: rgb(169,223,255);
+	float: right;
+}
+
+.vertCol {
+	width: 200px;
+	height: 690px;
+	margin: 10px;
+	background-color: rgb(169,223,255);
+	float: left; 
+	clear: both;
+}
+
+.horzCol {
+	width: 1020px;
+	height: 150px;
+	margin: 10px;
+	background-color: rgb(169,223,255);
+	float: left; 
+}
+
+.featArticle {
+	width: 810px;
+	height: 300px;
+	margin : 10px;
+	background-color: rgb(169,223,255);
+	float: left;
+}
+
+.smSideAd {
+	width: 190px;
+	height: 300px;
+	margin: 10px;
+	background-color: rgb(169,223,255);
+	float: right;
+}
+
+.contentTeasers div{
+	width: 240px;
+	height: 200px;
+	margin: 10px;
+	display: block;
+	background-color: rgb(169,223,255);
+	float: right;
+}
+
+.footer {
+	height: 150px;
+	width: 1243px;
+	margin: 10px;
+	background-color: rgb(169,223,255);
+	clear: both;
+}

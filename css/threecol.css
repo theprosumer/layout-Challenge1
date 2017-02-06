@@ -1,0 +1,42 @@
+
+h1 {
+	font-family: 'Lato', sans-serif;
+}
+
+.top {
+	height: 90px;
+	margin: 5px;
+	background-color: #E87B53;
+}
+
+.left {
+	width: 20%;
+	height: 440px;
+	margin: 5px; 
+	background-color: #DC6BFF;
+	float: left;
+}
+
+.right {
+	width: 20%;
+	height: 440px;
+	margin: 5px;
+	background-color: #A9E0FF;
+	float: right;
+}
+
+.middle {
+	width: 57%;
+	height: 440px;
+	margin: 5px;
+	background-color: #57E85F;
+	float: left;
+}
+
+.bottom {
+	height: 90px;
+	margin: 5px;
+	background-color: #FFE354;
+	clear: both;
+}
+

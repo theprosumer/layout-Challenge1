@@ -1,0 +1,50 @@
+h1 {
+	font-family: 'Lato', sans-serif;
+}
+
+.top {
+	height: 85px;
+	margin: 5px;
+	background-color: #E87B53;
+}
+
+.left {
+	height: 360px;
+	width: 49%; 
+	margin: 5px;
+	background-color: #E87B53;
+	float: left;
+}
+
+.right {
+	height:360px; 
+	width: 49%;
+	margin: 5px;
+	background-color: #E87B53;
+	float: right;
+}
+
+.col1 {
+	height: 170px;
+	width: 30%;
+	margin: 20px;
+	background-color: #E87B53;
+	float: left;
+}
+
+.col2 {
+	height:170px;
+	width: 30%;
+	margin: 20px;
+	background-color: #E87B53;
+	float: left;
+
+}
+
+.col3 {
+	height:170px;
+	width: 30%;
+	margin: 20px;
+	background-color: #E87B53;
+	float:right;
+}
